@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  * Implementar i provar funcions matemàtiques
- * @author alumne
+ * @author Denis Dyachuk
  */
 public class FuncionsMatematiques {
 
